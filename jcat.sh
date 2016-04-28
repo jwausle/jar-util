@@ -38,7 +38,7 @@ for i in $* ; do
       JAR=${BEFOR}
       JAR_PATH=${AFTER}
    fi
-   echo "JAR=${JAR}, JAR_PATH=${JAR_PATH}"
+
    jcat ${JAR} ${JAR_PATH} 
 done
 
