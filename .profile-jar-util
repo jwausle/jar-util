@@ -1,0 +1,4 @@
+alias jcat="sh jcat.sh"
+alias jfind="sh find.sh"
+alias jgrep="sh jgrep.sh"
+alias jdecompile="sh jdecompile.sh"
